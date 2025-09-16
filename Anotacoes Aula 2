@@ -1,0 +1,44 @@
+Anotações da Aula 2
+
+---------------------------------------------------------------------
+
+PaserFloat - 
+ParseInt - Numeros Inteiros.
+Fluxograma
+Laços
+Escopo
+
+
+1 - Cont - Constante
+2 - switch - Estrutura de condição, com constrole
+3 - while
+4 - for
+
+Default-É executado onde nenhuma expressão é encontrada.
+
+let - Inicio
+
+console.log - Mostra na tela
+
+if - pergunta, condição, possibilidades
+
+console.log - Mostra mensagem
+
+else - mostra o resultado da  varivel (else entra sempre quando o resultado é falso)
+
+console.log -  mostra a mensagem final 
+
+else if = Condição entre (), ele faz um encadeamento de varios testes.
+
+
+Conceito de Algoritmos
+
+if (condicao)
+  prompt ("oi")
+
+if (condicao) {
+endentacao prompt ("oi")
+Prompt ("Diego")
+}
+
+

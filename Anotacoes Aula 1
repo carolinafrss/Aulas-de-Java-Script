@@ -1,0 +1,132 @@
+Anotações da Aula 1
+
+---------------------------------------------------------------------
+
+
+// Esse é um comentario em JavaScritpt
+/*
+Esse comentario usa 
+varias linhas
+*/
+
+let nome = "Carolina"
+let mensagem = "Hello! World"
+let numero = 1200;   /*Um tipo de dado String*/
+let booleano = false  /*Um tipo de dado Booleano*/
+ 
+
+console.log (typeof nome);   /*Console log é onde "printa" a mesnagem na Tela*/
+console.log (typeof numero); 
+console.log (booleano)
+console.log (mensagem);
+console.log ("Hello! World!")
+console.log (typeof booleano);
+
+------------------------------------------------------------------
+
+Operações Matematicas 
+
+
+
+// Esse é um comentario em JavaScritpt
+/*
+Esse comentario usa 
+varias linhas
+*/
+
+let x = 12;
+let y = 20;
+
+let soma = x + y;
+let subtração = x - y;
+let multiplicação = x * y;
+let divisão = x / y;
+let Resultado = (12*(x / y));
+/* Na ordem de Precedencia - > 1 Divisão - Multiplicação - Soma e por fim a Divisão */
+
+console.log(soma);
+console.log(subtração)
+console.log(multiplicação);
+console.log(divisão);
+
+
+Special Numbers
+
+Exemplo : let n1 = "o";
+let n2 - 10;
+let resultado = n1+n2 /*interpulação*/
+
+
+
+
+// Esse é um comentario em JavaScritpt
+/*
+Esse comentario usa 
+varias linhas
+*/
+
+let x = 12;
+let y = 20;
+
+let soma = x + y;
+let subtração = x - y;
+let multiplicação = x * y;
+let divisão = x / y;
+let Resultado = (12*(x / y));
+let n1 = "3,4";
+let n2 = 10;
+let resultado = n1 / n2;
+let nome1 = "Ca";
+let nome2 = "rol";
+
+let n1 =3,4;
+let n2 = "nome";
+let n3 = false;
+
+console.log typeof (n1);
+console.log typeof (n2);
+console.log typeof (n3);
+
+
+/* Na ordem de Precedencia - > 1 Divisão - Multiplicação - Soma e por fim a Divisão */
+
+console.log(soma);
+console.log(subtração);
+console.log(multiplicação);
+console.log(divisão);
+console.log typeof(n1);
+console.log typeof(n2);
+console.log(n1+n2);
+console.log(nome1+nome2);
+console.log(Resultado);
+
+------------------------------------------------------------------------
+
+
+// Esse é um comentario em JavaScritpt
+/*
+Esse comentario usa 
+varias linhas
+*/
+
+let n1 = 4;
+let n2 = 2;
+let n3 = false;
+
+console.log(n1/n2);
+
+
+---------------------------------------
+
+
+let texto
+
+console.log typeof (texto);
+console.log (texto);
+
+
+
+
+
+
+
